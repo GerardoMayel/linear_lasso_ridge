@@ -1,2 +1,2 @@
-# linear_lasso_risge
+# linear_lasso_ridge
 Linear, Lasso and Ridge
